@@ -7,8 +7,8 @@ since my request had to do with the visual aspect of humans reading. This could 
 first instinct to create easily read files for general consumption. 
 
 I was surprised by the amount of detail Codex was able to generate for my analysis based on my fairly limited first couple prompts. It was interesting to see how a solid paragraph of 
-information and context provides Codex with enough instruction to tackle the question you're addressing while also going the extra mile to provide extremtely detailed and relavent 
+information and context provides Codex with enough instruction to tackle the question you're addressing while also going the extra mile to provide extremely detailed and relevant 
 data. The histogram chart is an excellent example of how Codex took a simple request and added necessary details to create an incredibly informative graph that is easily comprehensible
 and depicts a narrative. If I were to do one thing differently with this task, I would utilize chatGPT as a resource to refine my prompts. Taking a minute to sit down and write my prompts
 on my own is important to come up with creative questions that can lead to confounding insights, but I believe chatGPT could be a good sounding board to expand on my ideas and be a great 
-tool for efficient prompting. 
+tool for efficient prompting. ChatGPT gives me the ability to take a solid analytical question and expand on it to create strong analysis that goes beyond my bandwidth using a depth of resources that were unimaginable just a few short years ago.
