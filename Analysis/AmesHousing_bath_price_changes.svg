@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#222}.small{font-size:13px}.label{font-size:14px}.title{font-size:22px;font-weight:bold}.subtitle{font-size:14px;fill:#555}</style>
+<text x="90" y="30" class="title">Mean sale price change between adjacent half-bath groups</text>
+<text x="90" y="52" class="subtitle">Percent change in group mean; observational comparison, not an adjusted causal effect</text>
+<line x1="90" y1="415.0" x2="970" y2="415.0" stroke="#ddd"/>
+<text x="78" y="420.0" text-anchor="end" class="small">0%</text>
+<line x1="90" y1="339.9" x2="970" y2="339.9" stroke="#ddd"/>
+<text x="78" y="344.9" text-anchor="end" class="small">10%</text>
+<line x1="90" y1="264.7" x2="970" y2="264.7" stroke="#ddd"/>
+<text x="78" y="269.7" text-anchor="end" class="small">20%</text>
+<line x1="90" y1="189.6" x2="970" y2="189.6" stroke="#ddd"/>
+<text x="78" y="194.6" text-anchor="end" class="small">30%</text>
+<line x1="90" y1="114.4" x2="970" y2="114.4" stroke="#ddd"/>
+<text x="78" y="119.4" text-anchor="end" class="small">40%</text>
+<rect x="90.0" y="231.0" width="72" height="184.0" rx="3" fill="#2b7bba"/>
+<text x="126.0" y="223.0" text-anchor="middle" class="label">24.5%</text>
+<text x="126.0" y="439" text-anchor="middle" class="small">1→1.5</text>
+<text x="126.0" y="458" text-anchor="middle" class="small">n=443,293</text>
+<rect x="205.4" y="313.4" width="72" height="101.6" rx="3" fill="#2b7bba"/>
+<text x="241.4" y="305.4" text-anchor="middle" class="label">13.5%</text>
+<text x="241.4" y="439" text-anchor="middle" class="small">1.5→2</text>
+<text x="241.4" y="458" text-anchor="middle" class="small">n=293,911</text>
+<rect x="320.9" y="206.2" width="72" height="208.8" rx="3" fill="#2b7bba"/>
+<text x="356.9" y="198.2" text-anchor="middle" class="label">27.8%</text>
+<text x="356.9" y="439" text-anchor="middle" class="small">2→2.5</text>
+<text x="356.9" y="458" text-anchor="middle" class="small">n=911,560</text>
+<rect x="436.3" y="293.8" width="72" height="121.2" rx="3" fill="#2b7bba"/>
+<text x="472.3" y="285.8" text-anchor="middle" class="label">16.1%</text>
+<text x="472.3" y="439" text-anchor="middle" class="small">2.5→3</text>
+<text x="472.3" y="458" text-anchor="middle" class="small">n=560,378</text>
+<rect x="551.7" y="268.8" width="72" height="146.2" rx="3" fill="#2b7bba"/>
+<text x="587.7" y="260.8" text-anchor="middle" class="label">19.5%</text>
+<text x="587.7" y="439" text-anchor="middle" class="small">3→3.5</text>
+<text x="587.7" y="458" text-anchor="middle" class="small">n=378,289</text>
+<rect x="667.1" y="438.1" width="72" height="-23.1" rx="3" fill="#2b7bba"/>
+<text x="703.1" y="430.1" text-anchor="middle" class="label">-3.1%</text>
+<text x="703.1" y="439" text-anchor="middle" class="small">3.5→4</text>
+<text x="703.1" y="458" text-anchor="middle" class="small">n=289,31</text>
+<rect x="782.6" y="60.0" width="72" height="355.0" rx="3" fill="#2b7bba"/>
+<text x="818.6" y="52.0" text-anchor="middle" class="label">47.2%</text>
+<text x="818.6" y="439" text-anchor="middle" class="small">4→4.5</text>
+<text x="818.6" y="458" text-anchor="middle" class="small">n=31,17</text>
+<rect x="898.0" y="871.7" width="72" height="-456.7" rx="3" fill="#2b7bba"/>
+<text x="934.0" y="863.7" text-anchor="middle" class="label">-60.8%</text>
+<text x="934.0" y="439" text-anchor="middle" class="small">4.5→5</text>
+<text x="934.0" y="458" text-anchor="middle" class="small">n=17,3</text>
+<text x="530.0" y="512" text-anchor="middle" class="label">Total bathrooms (lower → higher group); sample sizes shown below</text>
+</svg>
